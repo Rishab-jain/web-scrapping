@@ -1,2 +1,3 @@
 # web-scrapping
-University links are  scrapped 
+it is project on web scrapping providing rajasthan sme information
+
